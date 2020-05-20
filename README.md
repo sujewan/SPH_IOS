@@ -1,6 +1,6 @@
 # SPH_IOS
 
-This application developed using Swift (For iOS) and consumes Api from Data.gov.sg to retrieve a list of mobile data usage which summarize the amount the of data sent over Singapore’s mobile networks from 2008 to 2018.
+This application developed using Swift 5 (For iOS) and consumes Api from Data.gov.sg to retrieve a list of mobile data usage which summarize the amount the of data sent over Singapore’s mobile networks from 2008 to 2018.
 
 ## Completed Tasks:
  - Task ONE: Display a list of data
@@ -27,6 +27,7 @@ Home Screen                |  Yearly Breakdown         | Working with Offline
 
 ## Technologies:
 - App Architecure: MVVM
+- Language : Swift 5
 - Network: [Alamofire](https://github.com/Alamofire/Alamofire)
 - Offline Caching: [Realm DB](https://realm.io/)
 - Unit Test For Mock: [Mocker](https://github.com/WeTransfer/Mocker)
