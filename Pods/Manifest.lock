@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.2.0)
+  - Cards (1.4.0):
+    - Player (= 0.13.0)
+  - ESPullToRefresh (2.9.2)
+  - lottie-ios (3.1.8)
+  - Mocker (2.1.0)
+  - Player (0.13.0)
+  - Realm (5.0.0):
+    - Realm/Headers (= 5.0.0)
+  - Realm/Headers (5.0.0)
+  - RealmSwift (5.0.0):
+    - Realm (= 5.0.0)
+  - TTGSnackbar (1.10.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Cards
+  - ESPullToRefresh
+  - lottie-ios
+  - Mocker
+  - RealmSwift
+  - TTGSnackbar
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cards
+    - ESPullToRefresh
+    - lottie-ios
+    - Mocker
+    - Player
+    - Realm
+    - RealmSwift
+    - TTGSnackbar
+
+SPEC CHECKSUMS:
+  Alamofire: c1ca147559e730bfb2182c8c7aafbdd90a867987
+  Cards: 45ae6bd0eca7b5e8016d3b6cb30b60b04753f68f
+  ESPullToRefresh: efed00d52597065e9a84e1e52fa444fdb1a1dee0
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  Mocker: 55f3d932b93e1568f3cf15bd697348c06fc676ee
+  Player: 968d8d07d923bcdd6f7e4091c9e306eb44a5f7a4
+  Realm: 76066d333de26f97e9caedaa85ee3ff4a62ca265
+  RealmSwift: c1bdff09b422569dc6881410d9ccf712bcdb79b0
+  TTGSnackbar: 97c033600de8a9c8f4a093f25a08543a03946bcc
+
+PODFILE CHECKSUM: 18ef8a570537fc55cc936aed88d588bf4f72e043
+
+COCOAPODS: 1.8.4

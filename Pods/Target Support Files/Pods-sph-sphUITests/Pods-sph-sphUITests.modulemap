@@ -1,0 +1,6 @@
+framework module Pods_sph_sphUITests {
+  umbrella header "Pods-sph-sphUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
